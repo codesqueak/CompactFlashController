@@ -1,4 +1,4 @@
-# NAS-GEM-80 Compact Flash Card 1.0
+# NAS-GEM-80 Compact Flash Card 1.2
 
 This card is to allow a compact flash module to be used in conjunction with an 80-Bus computer
 
